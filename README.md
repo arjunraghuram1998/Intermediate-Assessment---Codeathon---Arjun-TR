@@ -10,7 +10,7 @@ Topic: - Intermediate Assessment - Codeathon
 4. Fill down function used
 5. Removing duplicate rows
 6. Standardizing the Order Date column to a consistent date format.- done
-7. 
+ 
 # Load the cleaned dataset into the Power BI model.
 
 # Visualizations and Insights 
